@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.jetbrains.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg/3840px-JetBrains_IntelliJ_IDEA_Product_Logo.svg.png" alt="JetBrains Logo" width="300"/>
+    <img src="https://i0.wp.com/www.beabetterdev.com/wp-content/uploads/2021/01/intellij-519-d4ff21c469.png?fit=519%2C140&ssl=1" alt="JetBrains Logo" width="300"/>
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 The process is simplified through the **JetBrains Toolbox App**, a dedicated management application that allows developers to install, update, and roll back any JetBrains tool with ease. This centralized hub eliminates the hassle of manual downloads and ensures your development environment is always running the latest stable or early-access builds. Whether you are a student, a professional software engineer, or part of a large enterprise team, having reliable access to these powerful tools is fundamental for modern software development, enabling features like deep code analysis, smart refactoring, integrated version control, and database tools right within your IDE.
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Intellij_IDEA_2021.1_Community_Edition_screenshot.png" alt="JetBrains Toolbox Interface"/>
+  <img src="https://www.developpez.com/public/images/news/intellijidea2020-1eap-03create-java-record.png" alt="JetBrains Toolbox Interface"/>
 </p>
 
 ---
